@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "ios-example": "https://github.com/praveenkumarsomu/ios-project.git",
+    "android-example": "https://github.com/praveenkumarsomu/android-example.git"
+  }
+}
